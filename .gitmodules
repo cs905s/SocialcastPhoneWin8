@@ -1,0 +1,3 @@
+[submodule "API"]
+	path = API
+	url = https://github.com/cs905s/SocialCast-API-Wrapper.git
